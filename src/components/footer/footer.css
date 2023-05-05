@@ -1,0 +1,41 @@
+.rede{
+    display: flex;
+   justify-content: center;
+    margin-left: 375px;
+    font-size: 40px;
+    list-style: none;
+    cursor: pointer;
+    
+    }
+    .instagram{
+        margin-right: 20px;
+        color: rgb(238, 36, 238);
+    }
+    .linkedin{
+        margin-right: 20px;
+        color: blue;
+        
+    }
+    .git{
+        margin-right: 20px;
+        color: black;
+    }
+    .gmail{
+        margin-right: 20px;
+        color:tomato;
+       
+    }
+    .whats{
+        margin-right: 20px;
+        color:green;
+        
+    }
+    .footer{
+        background: green;
+        justify-content: center;
+        text-align: center;
+        color: white;
+        background-size: cover;
+       
+      
+    }

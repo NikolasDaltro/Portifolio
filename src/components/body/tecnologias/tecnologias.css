@@ -1,0 +1,14 @@
+.princi {
+   flex: 1;
+   margin-left: 150px;
+   margin-right: 300px;
+   justify-content: left;
+
+}
+
+.tecs {
+   margin-top: 50px;
+   display: inline-block;
+   margin-left: 200px;
+   
+}

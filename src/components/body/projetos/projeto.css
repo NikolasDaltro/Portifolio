@@ -1,0 +1,14 @@
+.princi{
+   flex: 1;
+   margin-left: 150px;
+   margin-right: 200px;
+   justify-content: left;
+}
+.project{
+   text-align: center;
+   background: silver;
+   color:green;
+}
+.trabalhos{
+   margin-left: 150px;
+}
